@@ -6,7 +6,7 @@
 \book {
   \bookpart {
     \section "Stabat mater"
-    % \addTocEntry
+    \addTocEntry
     \paper { indent = 3\cm }
     \score {
       <<
@@ -78,7 +78,7 @@
         \new FiguredBass { \StabatBassFigures }
       >>
       \layout { }
-      \midi { \tempo 4 = 60 }
+      \midi { \tempo 4 = 65 }
     }
   }
 }
