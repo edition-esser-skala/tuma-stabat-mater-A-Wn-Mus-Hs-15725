@@ -8,7 +8,7 @@
   \bookpart {
     \section "Stabat mater"
     \addTocEntry
-    \paper { indent = 2\cm page-count = #1 }
+    \paper { indent = 2\cm systems-per-page = #6 }
     \score {
       <<
         \new Staff {
