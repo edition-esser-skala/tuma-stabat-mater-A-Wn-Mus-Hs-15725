@@ -1,0 +1,27 @@
+composer:
+  last: Tůma
+  first: František Ignác Antonín
+title: Stabat mater
+subtitle: Sequenza per la Messa dei 7 Dolori della Madonna
+genre: sequence
+scoring: S, A, T, B (coro), cnto, fag, 2 trb, 2 vl, vla, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15725
+    date: 1747
+    rism: 600138806
+    url: https://data.onb.ac.at/rec/AC14297618
+    license: public domain
+    principal: true
+    notes: parts for S (3×), A (3×), T (3×), B (3×), cnto, fag, trb 1, trb 2, vl (2×), vla (2×), vlc, vlne, org, and maestro di cappella
+  B2:
+    siglum: D-Dl
+    shelfmark: Mus.2968-D-509
+    date: 1890–1910
+    rism: 1001001595
+    url: https://digital.slub-dresden.de/id480932069
+    license: public domain
+    notes: full score
+imslp:
